@@ -12,7 +12,7 @@ A web application that helps students generate clean, readable notes from screen
 ## Project Structure
 
 ```
-├── frontend/         # React frontend
+├── frontend/         # frontend
 └── backend/          # FastAPI backend
 ```
 
@@ -83,7 +83,7 @@ A web application that helps students generate clean, readable notes from screen
 
 ## Technologies Used
 
-- Frontend: React, Tailwind CSS, react-to-pdf
+- Frontend: HTML, CSS, JavaScript 
 - Backend: FastAPI, pytesseract, Google Generative AI (Gemini Flash)
 
 cd ../backend
